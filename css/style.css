@@ -121,7 +121,7 @@ body {
 
 .delicious-menus {
   padding: 10rem 0;
-  background-image: url("/img/delicious-menus--bg.jpg");
+  background-image: url("../img/delicious-menus--bg.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover; }
@@ -213,7 +213,7 @@ body {
       font-size: 1.5rem; }
 
 .offer {
-  background-image: url("/img/offer-img.jpg");
+  background-image: url("../img/offer-img.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -307,7 +307,7 @@ body {
 
 .book-table__form {
   background-color: #999;
-  background-image: url(/img/book-table-1.jpg);
+  background-image: url("../img/book-table-1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -380,7 +380,7 @@ body {
           background-color: #ffb900; }
 .book-table .contact-info {
   background-color: #999;
-  background-image: url(/img/book-table-2.jpg);
+  background-image: url("../img/book-table-2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -435,7 +435,7 @@ body {
   font-size: 1.4rem; }
 
 .feedback {
-  background-image: url(/img/feedback-bg.jpg);
+  background-image: url("../img/feedback-bg.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
